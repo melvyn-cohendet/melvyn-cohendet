@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner-hero.png" alt="Melvyn Cohendet — Étudiant en informatique, IA locale, systèmes embarqués" width="100%">
+<img src="banner-hero_1.png" alt="Melvyn Cohendet — Étudiant en informatique, IA locale, systèmes embarqués" width="100%">
 
-<img src="cv.png" alt="CV de Melvyn Cohendet : formation HND Informatique et Bac Pro MELEC, projet Alyxia-Solutions (IA locale), MountainRockets (FIRST Tech Challenge 2024, premier prix), compétences, langues, loisirs" width="100%">
+<img src="cv_1.png" alt="CV de Melvyn Cohendet : formation HND Informatique et Bac Pro MELEC, projet Alyxia-Solutions (IA locale), MountainRockets (FIRST Tech Challenge 2024, premier prix), compétences, langues, loisirs" width="100%">
 
 📫 [melvyn.cohendet74@gmail.com](mailto:melvyn.cohendet74@gmail.com) · 📍 Douvaine, France
 
