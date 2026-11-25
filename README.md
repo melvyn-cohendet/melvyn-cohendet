@@ -2,7 +2,7 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/melvyn-cohendet-b6981730b) · 📫 [m.cohendet@icloud.com](mailto:m.cohendet@icloud.com) · 📍 Douvaine, France
 
-<img src="banner-hero.png" alt="Melvyn Cohendet — Étudiant en informatique, IA locale, systèmes embarqués" width="100%">
+<img src="intro_melvyn.png" alt="Melvyn Cohendet — Étudiant en informatique, IA locale, systèmes embarqués" width="100%">
 
 <img src="cv_competences.png" alt="CV de Melvyn Cohendet : formation HND Informatique et Bac Pro MELEC, projet Alyxia-Solutions (IA locale), MountainRockets (FIRST Tech Challenge 2024, premier prix), compétences, langues, loisirs" width="100%">
 
